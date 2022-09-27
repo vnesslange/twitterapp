@@ -127,7 +127,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Home" id="oht-TY-sbl">
                         <barButtonItem key="leftBarButtonItem" title="Logout" id="7YT-3k-SAG">
-                            <color key="tintColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
                                 <action selector="onLogout:" destination="dvV-Li-veE" id="wKh-Pp-k8O"/>
                             </connections>
