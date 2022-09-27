@@ -24,4 +24,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](ezgif.com-gif-maker-4.gif)
+![](ezgif.com-gif-maker-5.gif)
 
